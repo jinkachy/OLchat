@@ -1,9 +1,9 @@
-PHPÁÄÌìÊÒ
+ï»¿PHPèŠå¤©å®¤
 
-¶àÈËÁÄÌìµÄÄÇÖÖ
+å¤šäººèŠå¤©çš„é‚£ç§
 
-Êý¾Ý¿âÅäÖÃÎÄ¼þÔÚconfig.phpÀïÃæ
+æ•°æ®åº“é…ç½®æ–‡ä»¶åœ¨config.phpé‡Œé¢
 
-±ðÍüÁË¸øchat.txt¶ÁÐ´È¨ÏÞ
+åˆ«å¿˜äº†ç»™chat.txtè¯»å†™æƒé™
 
-ÁíÍâ£¬ÏÈ½¨ºÃÊý¾Ý¿â
+å¦å¤–ï¼Œå…ˆå»ºå¥½æ•°æ®åº“
